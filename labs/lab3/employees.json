@@ -1,0 +1,20 @@
+{
+    "user1" : {
+        "name" : "Daniel Alvarez",
+        "password" : "password1",
+        "profession" : "student",
+        "id" : 1
+    },
+    "user2" : {
+        "name" : "Titas",
+        "password" : "password2",
+        "profession" : "architechture",
+        "id" : 2
+    },
+    "user3" : {
+        "name" : "bona",
+        "password" : "password3",
+        "profession" : "Royalty",
+        "id" : 3
+    }
+}
