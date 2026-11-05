@@ -1,0 +1,49 @@
+.container {
+    width: 550px;
+    max-width: 90%;
+    margin: 100px auto;
+    padding: 30px 20px 35px;
+
+    text-align: center;
+    background-color: white;
+    color: black;
+
+    border: 5px solid #a0eaff;
+    box-shadow: 0 0 10px #87e4ff;
+}
+
+.react-logo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 35px;
+}
+
+.container h1 {
+    font-size: 21px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.container h2 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+
+.student-info h3 {
+    font-size: 14px;
+    color: black;
+    margin-bottom: 16px;
+}
+
+.student-info h4 {
+    font-size: 12px;
+    color: black;
+    margin-bottom: 16px;
+}
+
+.student-info p {
+    font-size: 11px;
+    color: black;
+}
